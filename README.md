@@ -1,10 +1,10 @@
 # Landing Page Project
 
 ## Table of Contents
-##Introduction
+## Introduction
 Landing Page that builds navigation dynamically starting with empty ul.
 
-##Functionality
+## Functionality
 - Section Active State: when it is in viewport using .getBoundingClientRect() built-in function.
 
 - Scroll to Anchor: When clicking an item from the navigation menu, the link scrolls to the appropriate section.
